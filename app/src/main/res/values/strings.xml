@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlcoTesterMS</string>
+    <string name="tab_1">tab1</string>
+    <string name="tab_2">tab2</string>
+    <string name="tab_3">tab3</string>
+</resources>
